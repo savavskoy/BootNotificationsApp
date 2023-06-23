@@ -1,0 +1,7 @@
+TODO
+1. Read received data and write TextView logic with MVVM ui pattern (Get saved data fromm Room db)
+2. End notifications logic
+
+In future
+1. Add use cases to domain module
+2. Add UI mappers and models
